@@ -1,13 +1,3 @@
-+++
-authors=["sanderson"]
-categories = ["recipes"]
-date = "2016-08-15T14:52:57-07:00"
-glyph = "fa-file-text-o"
-summary = "Simple and Detailed Monitoring of RabbitMQ"
-tags = ["rabbitmq", "monitoring", "service", "shared"]
-title = "Monitoring RabbitMQ"
-short = ""
-+++
 
 # Monitoring interface for RabbitMQ
 
